@@ -1,0 +1,35 @@
+{
+	"name": "NodeSoul",
+	"description": "Library for NetSoul",
+	"version": "0.0.1",
+	"keywords": [
+		"netsoul",
+		"epitech"
+	],
+	"maintainers": [
+		{
+			"name": "Pierrick Paul",
+			"email": "pierrick.paul@epitech.eu",
+			"web": "www.pierrickpaul.fr"
+		}
+	],
+	"dependencies": {
+		"colors": "0.6.x"
+	},
+	"bugs": {
+		"web": "https://github.com/PierrickP/NodeSoul/issues"
+	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/PierrickP/NodeSoul.git"
+		}
+	],
+	"licenses": [
+		{
+			"name": "MIT",
+			"url": "https://github.com/PierrickP/NodeSoul/blob/master/LICENSE"
+		}
+	],
+	"homepage": "https://github.com/PierrickP/NodeSoul"
+}
